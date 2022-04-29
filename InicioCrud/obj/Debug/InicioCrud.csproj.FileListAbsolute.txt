@@ -1,0 +1,11 @@
+C:\temp\ws-vs2022\SistemaVendas\InicioCrud\bin\Debug\InicioCrud.exe.config
+C:\temp\ws-vs2022\SistemaVendas\InicioCrud\bin\Debug\InicioCrud.exe
+C:\temp\ws-vs2022\SistemaVendas\InicioCrud\bin\Debug\InicioCrud.pdb
+C:\temp\ws-vs2022\SistemaVendas\InicioCrud\obj\Debug\InicioCrud.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\SistemaVendas\InicioCrud\obj\Debug\InicioCrud.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs2022\SistemaVendas\InicioCrud\obj\Debug\InicioCrud.Form1.resources
+C:\temp\ws-vs2022\SistemaVendas\InicioCrud\obj\Debug\InicioCrud.Properties.Resources.resources
+C:\temp\ws-vs2022\SistemaVendas\InicioCrud\obj\Debug\InicioCrud.csproj.GenerateResource.cache
+C:\temp\ws-vs2022\SistemaVendas\InicioCrud\obj\Debug\InicioCrud.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\SistemaVendas\InicioCrud\obj\Debug\InicioCrud.exe
+C:\temp\ws-vs2022\SistemaVendas\InicioCrud\obj\Debug\InicioCrud.pdb
